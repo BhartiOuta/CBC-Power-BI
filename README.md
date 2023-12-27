@@ -1,4 +1,4 @@
 # CBC-Power-BI
 
 Author- Bharti Jhalani
-Second Lien :- Staus dashboard
+Second Lien :- Status dashboard
